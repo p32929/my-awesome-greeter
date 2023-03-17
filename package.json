@@ -1,6 +1,6 @@
 {
   "name": "my-awesome-greeter-by-fayaz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "description": "A nice greeter",
@@ -24,5 +24,6 @@
     "Hello",
     "Greeter"
   ],
-  "author": "p32929"
+  "author": "p32929",
+  "homepage": "https://github.com/p32929/FayFetch",
 }
